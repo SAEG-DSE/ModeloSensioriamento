@@ -1,2 +1,2 @@
 # ModeloSensioriamento
-Modelagem matemática para definição da distribuição ótima de sensoriamento remoto
+Programapara captura de informações de imagens via OCR 
